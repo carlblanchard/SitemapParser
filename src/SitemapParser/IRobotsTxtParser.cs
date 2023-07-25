@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Louw.SitemapParser
+namespace SitemapParser
 {
     public interface IRobotsTxtParser
     {

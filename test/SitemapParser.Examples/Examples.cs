@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Louw.SitemapParser.Examples
+namespace SitemapParser.Examples
 {
     public class Examples
     {

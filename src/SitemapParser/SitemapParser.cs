@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Xml.Linq;
 
-namespace Louw.SitemapParser
+namespace SitemapParser
 {
     public class SitemapParser : ISitemapParser
     {

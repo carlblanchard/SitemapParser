@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Louw.SitemapParser
+namespace SitemapParser
 {
     public class SitemapItem
     {

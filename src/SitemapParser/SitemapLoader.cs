@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Louw.SitemapParser
+namespace SitemapParser
 {
     public class SitemapLoader
     {

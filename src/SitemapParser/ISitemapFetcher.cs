@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Louw.SitemapParser
+namespace SitemapParser
 {
     public interface ISitemapFetcher
     {

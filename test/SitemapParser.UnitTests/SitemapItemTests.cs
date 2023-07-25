@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace Louw.SitemapParser.UnitTests
+namespace SitemapParser.UnitTests
 {
     public class SitemapItemTests
     {

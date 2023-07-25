@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace Louw.SitemapParser
+namespace SitemapParser
 {
     public class WebSitemapFetcher : ISitemapFetcher
     {
